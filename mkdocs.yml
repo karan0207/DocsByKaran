@@ -30,7 +30,7 @@ theme:
         dark: Switch to light mode
       primary: teal
       accent: lime
-  custom_dir: overrides  # Add this line to specify the custom template directory
+ # Add this line to specify the custom template directory
 
 extra_css:
   - stylesheets/extra.css
